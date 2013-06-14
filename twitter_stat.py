@@ -8,7 +8,8 @@
         2. Once downloaded, store in the same folder as this script
         3. Run script like this: 
             $ python twitter_stat.py tweets.csv
-    Written by Orjan Vollestad (orjanv@gmail.com)
+    Written by Orjan Vollestad (orjanv@gmail.com) (hoyd@twitter)
+    
 """
 from __future__ import division
 import csv
