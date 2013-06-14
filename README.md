@@ -9,7 +9,7 @@ A python script that takes the Twitter archive export file as input and from it 
 3. Run script like this: 
 
 ```
-$ python twitter_stat.py tweets.csv´
+$ python twitter_stat.py tweets.csv
 ```
 
 Suggestions:
