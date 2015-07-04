@@ -46,6 +46,7 @@ def daycount(_dict):
     daynumbers = {1:0, 2:0, 3:0, 4:0, 5:0, 6:0, 7:0}
     for day in range(1, 8):
         daynumbers[day] = weekdays.count(day)
+    print daynumbers
     tday = maxdictvalue(daynumbers)-1
     print "You have tweeted most often on a %s" % (calendar.day_name[tday])
     
@@ -66,10 +67,13 @@ def generic_stat(_dict):
     print "You have been tweeting for %s years and %s day(s)" % \
         (years, remainder)
     print "Total number of tweets in archive: %s" % (len(weekdays))
-    print "On an average, you have tweeted %.2f tweets each day" % \
-        (round(average, 2))
+    print "On an average, you have tweeted %.2f tweets each day" % (round(average, 2))
 
-    
+
+def plot_data():
+    # Take in a list and plot it
+    return None
+
 def maxdictvalue(_dict):
     """Return key of dict that has the biggest value"""
     values = list(_dict.values())

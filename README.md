@@ -16,3 +16,5 @@ Suggestions:
 ------------
 
 - Top five Most Retweeted Tweets
+- Plot amount of tweets against days a week using pyplot from matplotlib
+- Most used words using pytagcloud
