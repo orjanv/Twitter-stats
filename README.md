@@ -17,7 +17,7 @@ Features
 - Plots amount of tweets against days a week using pyplot from matplotlib
 - Writes the outout to a html file 'tweets.html' ([see example file](https://github.com/orjanv/Twitter-stats/blob/master/tweets.html) and then opens it in a webbrowser
 
-<img src="https://github.com/orjanv/Twitter-stats/blob/master/by-days-of-week.png" alt="Tweets by days of week" />
+<img src="https://github.com/orjanv/Twitter-stats/blob/master/by-days-of-week.png" width="400px" alt="Tweets by days of week" />
 
 Suggestions:
 ------------
