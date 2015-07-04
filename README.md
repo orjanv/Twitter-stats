@@ -15,12 +15,10 @@ $ python twitter_stat.py
 Features
 --------
 - Plots amount of tweets against days a week using pyplot from matplotlib
-- Writes the outout to a html file 'tweets.html' and then opens it in a webbrowser
+- Writes the outout to a html file 'tweets.html' ([see example file](https://github.com/orjanv/Twitter-stats/blob/master/tweets.html) and then opens it in a webbrowser
 
-![alt text][plot]
+<img src="https://github.com/orjanv/Twitter-stats/blob/master/by-days-of-week.png" alt="Tweets by days of week" />
 
 Suggestions:
 ------------
 - Most used words using pytagcloud
-
-[logo]: https://github.com/orjanv/Twitter-stats/blob/master/by-days-of-week.png "Tweets by days of week"
