@@ -23,4 +23,5 @@ Suggestions:
 ------------
 - Most used words using pytagcloud
 - More plots
-- Styled HTML with CSS
+- Styled HTML5 with CSS, scalable
+- Most retweeted
